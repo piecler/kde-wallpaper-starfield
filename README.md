@@ -1,6 +1,6 @@
 # KDE wallpaper starfield
 [![KDE store link](https://img.shields.io/badge/kde.store.org-0000000-blue)](https://store.kde.org/p/0000000/)
 
-[![Starfield preview](assets/starfield.png)](assets/starfield.mp4)
+https://github.com/user-attachments/assets/de31b2ea-2ac6-443f-a3b8-19e194afdbee
 
 Simple KDE wallpaper of an animated starfield.
